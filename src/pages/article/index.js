@@ -123,19 +123,19 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/pensieve" />
+        <title>Articles | Luis Villalobos</title>
+        <link rel="canonical" href="https://brittanychiang.com/article" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">Pensieve</h1>
+          <h1 className="big-title">Articles</h1>
           <p className="subtitle">
             <a
-              href="https://www.wizardingworld.com/writing-by-jk-rowling/pensieve"
+              href="https://www.elgarageistmeno.com/inicio/author/Luis-Villalobos"
               target="_blank"
               rel="noopener noreferrer">
-              a collection of memories
+              Check my others articles in spanish
             </a>
           </p>
         </header>
@@ -167,7 +167,7 @@ const PensievePage = ({ location, data }) => {
                         <StyledTags>
                           {tags.map((tag, i) => (
                             <li key={i}>
-                              <Link to={`/pensieve/tags/${kebabCase(tag)}/`}>#{tag}</Link>
+                              <Link to={`/article/tags/${kebabCase(tag)}/`}>#{tag}</Link>
                             </li>
                           ))}
                         </StyledTags>
