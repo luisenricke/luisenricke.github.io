@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Luis Villalobos | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Luis Villalobos is a software engineer based in Tuxtla Gutiérrez, Chiapas specializing in building android apps and rarely websites.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Luis Enrique, Luis Villalobos, luisenricke, software engineer, android engineer, android developer, android, java, kotlin',
+  siteUrl: 'http://localhost:8000/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Luis Villalobos',
+  location: 'Tuxtla Gutiérrez, Chiapas',
+  email: 'luisvillalobosmelendez@outlook.com',
+  github: 'https://github.com/luisenricke',
+  twitterHandle: '@LuisEnricKe',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/luisenricke',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/luisvillalobosmelendez/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/luisenricke/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/LuisEnricKe',
     },
   ],
 
