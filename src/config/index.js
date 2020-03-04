@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Luis Villalobos | Software Engineer',
+  siteTitle: 'Luis Villalobos | Software Developer',
   siteDescription:
     'Luis Villalobos is a software engineer based in Tuxtla Gutiérrez, Chiapas specializing in building android apps and rarely websites.',
   siteKeywords:
