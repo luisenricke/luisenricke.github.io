@@ -10,6 +10,6 @@ skills:
   - Git
 ---
 
-Hello! I'm Luis Enrique, a software engineer based in Tuxtla Gutiérrez, Chiapas who is enthusiastic of Android Development.
+Hello! I'm Luis Enrique, a software developer based in Tuxtla Gutiérrez, Chiapas who is enthusiastic of Android Development.
 
-I’m in search of good software implementations. I like to learn new tech stuff and solve problems with a great music and code. I would like to grow professionally and actively collaborate as a team.
+I'm looking for good software implementations. I like to learn new things about technology and solve problems with good music and code. I would like to grow professionally and actively collaborate as a team.

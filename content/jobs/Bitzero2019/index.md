@@ -3,14 +3,13 @@ date: '2019-04-1'
 title: 'Android developer'
 company: 'Bitzero'
 location: 'Tuxtla Gutiérrez, Chiapas'
-range: 'April 2019 - Present'
+range: 'April 2019 - February 2020'
 url: 'http://bitzero.mx/'
 ---
 
-- Native development for the functionality of the applications such as changes to the UI, internal
-  calculations and management of asynchronous processes.
-- Dealing with requests for data on private and public servers.
-- Implemented internal and external data storage with SQLite and Android Data.
-- Creation and manipulation of layouts for UI.
-- Optimize the configuration of the projects to be less heavy and fast with Gradle.
-- Use of libraries such as Material Design, Room, Picasso, Retrofit
+- Developed features of the projects in a modular and robust way with Kotlin and Java.
+- Conceptualized and designed of the UI with XML, the designs had tendency to Material Design.
+- Charged of implementing the data persistence of the applications with SharedPreference and Room.
+- Integrated the navigation component of Jetpack to facilitate the scalability of possible new features in the projects.
+- Integrated Volley and Retorfit as tools to manage requests and responses to web services.
+- Helped to solve logic errors in the code, design patterns and other implementations during the development of the projects
