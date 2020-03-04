@@ -1,11 +1,12 @@
 ---
 date: '2020-02-05'
-title: 'Local Web Pages in Android'
+title: 'Local Web Pages'
 github: 'https://github.com/luisenricke/LocalWebPages'
 external: ''
 tech:
   - Kotlin
   - Android SDK
+  - SQLite
   - HTML
   - JS
   - CSS

@@ -1,11 +1,12 @@
 ---
-date: '2019-09-05'
-title: 'Navigation Component with Jetpack'
+date: '2019-09-24'
+title: 'Simple Room App'
 github: 'https://github.com/luisenricke/NavigationComponent'
 external: ''
 tech:
   - Kotlin
   - Android SDK
+  - SQLite
 company: ''
 showInProjects: true
 ---
