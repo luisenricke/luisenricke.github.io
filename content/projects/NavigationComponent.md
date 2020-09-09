@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-This application is made to see how to use the navigation component of Jetpack.
+Esta aplicación está hecha para ver cómo usar el componente de navegación de Jetpack.

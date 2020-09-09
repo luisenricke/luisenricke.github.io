@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-A simple school project to control a car using a WIFI module in arduino.
+Un simple proyecto escolar que sirve para controlar un coche por medio de un modulo de WIFI en arduino.

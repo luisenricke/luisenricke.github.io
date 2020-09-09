@@ -1,15 +1,20 @@
 ---
-title: 'About Me'
+title: 'Sobre mí'
 avatar: './me.png'
 skills:
-  - Java
   - Kotlin
+  - Java
   - SQL
   - PHP
   - Laravel
+  - Spring
   - Git
 ---
 
-Hello! I'm Luis Enrique, a software developer based in Tuxtla Gutiérrez, Chiapas who is enthusiastic of Android Development.
+Hola, mi nombre es Luis Enrique Villalobos Meléndez, desarrollador de software con sede en Oaxaca de Juárez, Oax. No le tengo miedo a los nuevos retos y disfruto mucho escribir código limpio.
 
-I'm looking for good software implementations. I like to learn new things about technology and solve problems with good music and code. I would like to grow professionally and actively collaborate as a team.
+Desde el momento en que pude crear una calculadora en un programa de consola supe a lo que me quería dedicar en mi vida.
+
+Me gustaría crecer profesionalmente y poder colaborar activamente en proyectos de gran impacto.
+
+Estas son algunas de las tecnologías, frameworks y/o herramientas con las que he trabajado:

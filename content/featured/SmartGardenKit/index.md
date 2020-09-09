@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A android application for check the recorded values of sensors such as ph and humidity in order to monitor the statistics of the plants. It was used a third-party service like Alatair SmartCore to store the information.
+Una aplicación android para comprobar los valores registrados de los sensores como el ph y la humedad, con el fin de controlar las estadísticas de las plantas. Se utilizó un servicio de terceros como Alatair SmartCore para almacenar la información.

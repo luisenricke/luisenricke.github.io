@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-This application is made to see how to use the Room component of Jetpack. The management of the records is easy and simple, it can be configured to support database already created and make migrations.
+Esta aplicación está hecha para ver cómo usar el componente Room de Jetpack. La gestión de los registros es fácil y sencilla, puede ser configurada para soportar bases de datos ya creadas y hacer migraciones.

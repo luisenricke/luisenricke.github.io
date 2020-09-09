@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
+title: 'Hola, mi nombre es'
 name: 'Luis Villalobos'
-subtitle: 'I build things for android.'
-contactText: 'Get in touch'
+subtitle: ''
+contactText: 'Contáctame'
 ---
 
-I'm a software developer based in Tuxtla Gutiérrez, Chiapas specializing in building android apps and some websites.
+Desarrollador de software. Me especializo en la construcción y mantenimiento de aplicaciones Android y Laravel.

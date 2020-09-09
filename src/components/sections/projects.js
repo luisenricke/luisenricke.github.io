@@ -145,9 +145,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+      <StyledTitle ref={revealTitle}>Otros proyectos</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        view the archive
+        ver el registro completo
       </StyledArchiveLink>
 
       <StyledGrid>
@@ -215,7 +215,7 @@ const Projects = ({ data }) => {
       </StyledGrid>
 
       <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
+        Mostrar {showMore ? 'menos' : 'más'}
       </StyledMoreButton>
     </StyledContainer>
   );

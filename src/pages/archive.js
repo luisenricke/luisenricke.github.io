@@ -99,24 +99,24 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Luis Villalobos</title>
+        <title>Registro | Luis Villalobos</title>
         <link rel="canonical" href="https://brittanychiang.com/archive" />
       </Helmet>
 
       <StyledMainContainer>
         <header ref={revealTitle}>
-          <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A list of things I’ve worked on</p>
+          <h1 className="big-title">Registro</h1>
+          <p className="subtitle">Lista de proyectos en las que he trabajado/colaborado</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
           <StyledTable>
             <thead>
               <tr>
-                <th>Year</th>
-                <th>Title</th>
-                <th className="hide-on-mobile">Made at</th>
-                <th className="hide-on-mobile">Built with</th>
+                <th>A&ntilde;o</th>
+                <th>Título</th>
+                <th className="hide-on-mobile">Hecho en</th>
+                <th className="hide-on-mobile">Creado con</th>
                 <th>Link</th>
               </tr>
             </thead>

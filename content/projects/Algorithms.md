@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-These are some exercises to practice my logic, OOP and functional programming with some algorithms and problems with pages like HackerRank, LeetCode and ProjectEuler.
+Estos son algunos ejercicios para practicar mi lógica, OOP y programación funcional con algunos algoritmos y problemas con páginas como HackerRank, LeetCode y ProjectEuler.

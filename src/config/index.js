@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Luis Villalobos | Software Developer',
+  siteTitle: 'Luis Villalobos | Desarrollador de software',
   siteDescription:
     'Luis Villalobos is a software engineer based in Tuxtla Gutiérrez, Chiapas specializing in building android apps and rarely websites.',
   siteKeywords:
@@ -9,7 +9,7 @@ module.exports = {
   googleAnalyticsID: '',
   googleVerification: '',
   name: 'Luis Villalobos',
-  location: 'Tuxtla Gutiérrez, Chiapas',
+  location: 'Oaxaca de Juárez, Oaxaca',
   email: 'luisvillalobosmelendez@outlook.com',
   github: 'https://github.com/luisenricke',
   twitterHandle: '@LuisEnricKe',
@@ -34,19 +34,19 @@ module.exports = {
 
   navLinks: [
     {
-      name: 'About',
+      name: 'Acerca de',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Experiencia',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Proyectos',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contacto',
       url: '/#contact',
     },
   ],
